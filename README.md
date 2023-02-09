@@ -1,2 +1,2 @@
-## Hello there
-This site was built using [ijse](https://pages.github.com/).
+## Hello there ijse
+This site was built using [ijse](https://www.ijse.lk/).
