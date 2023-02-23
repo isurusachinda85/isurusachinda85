@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuru Sahinda</h1>
+<h1 align="center">Hi 👋, I'm Isuru Sahinda Lakshan Ranaweera</h1>
 <h3 align="center">Student At Institute Of Software Engineering(ijse)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurusachinda85&label=Profile%20views&color=0e75b6&style=flat" alt="isurusachinda85" /> </p>
