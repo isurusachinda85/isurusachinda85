@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Isuru Sahinda</h1>
-<h3 align="center">Student at institute of software engineering(ijse)</h3>
+<h3 align="center">Student At Institute Of Software Engineering(ijse)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurusachinda85&label=Profile%20views&color=0e75b6&style=flat" alt="isurusachinda85" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Computer Science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/isurusachinda85?tab=repositories](https://github.com/isurusachinda85?tab=repositories)
+
+- 💬 Ask me about **JAVA,MySQL**
 
 - 📫 How to reach me **isurusachintha8@gmail.com**
 
@@ -21,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isurusachinda85&show_icons=true&locale=en" alt="isurusachinda85" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isurusachinda85&" alt="isurusachinda85" /></p>
-
